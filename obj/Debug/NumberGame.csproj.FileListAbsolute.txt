@@ -1,0 +1,7 @@
+C:\Users\Southland Assistant\Documents\Visual Studio 2017\NumberGame\obj\Debug\NumberGame.csprojResolveAssemblyReference.cache
+C:\Users\Southland Assistant\Documents\Visual Studio 2017\NumberGame\obj\Debug\NumberGame.csproj.CoreCompileInputs.cache
+C:\Users\Southland Assistant\Documents\Visual Studio 2017\NumberGame\bin\Debug\NumberGame.exe.config
+C:\Users\Southland Assistant\Documents\Visual Studio 2017\NumberGame\bin\Debug\NumberGame.exe
+C:\Users\Southland Assistant\Documents\Visual Studio 2017\NumberGame\bin\Debug\NumberGame.pdb
+C:\Users\Southland Assistant\Documents\Visual Studio 2017\NumberGame\obj\Debug\NumberGame.exe
+C:\Users\Southland Assistant\Documents\Visual Studio 2017\NumberGame\obj\Debug\NumberGame.pdb
